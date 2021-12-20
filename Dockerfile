@@ -12,7 +12,7 @@ ENV LANGUAGE en_GB.UTF-8
 ENV LC_ALL en_GB.UTF-8
 ENV LANG en_GB.UTF-8
 ENV LC_TYPE en_GB.UTF-8
-ENV TZ Europe/London
+ENV TZ Europe/Moscow
 
 RUN apt-get install -q -y --no-install-recommends \
   build-essential \
